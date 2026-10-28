@@ -1,3 +1,17 @@
+||vndb.org^
+||telegra.ph^
+||xxx.spree.tube^
+||pixhost.cc^
+||viperbb.rocks^
+||archive.palanq.win^
+||yandex.com^
+||qna.center^
+||shoptour.co.uk^
+||dzen.ru^
+||sportspigeonsrussia.com^
+||tgstat.ru^
+||myawardcenter.org^
+||i0.wp.com^
 ||scribd.com^
 ||animaru1.com^
 ||marumaru105.com^
