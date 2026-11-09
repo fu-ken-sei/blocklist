@@ -1,3 +1,4 @@
+||imgs.search.brave.com^
 ||vndb.org^
 ||telegra.ph^
 ||xxx.spree.tube^
